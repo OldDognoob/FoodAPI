@@ -1,0 +1,3 @@
+A React project based on searching food API recipe with React hooks
+A nice revision to the meaning of React Hooks 
+A game to understand Hooks better in the world of React
