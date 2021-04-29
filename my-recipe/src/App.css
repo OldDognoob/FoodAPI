@@ -44,9 +44,9 @@ h1{
 
 .alert{
     position: absolute;
-    top:8rem;
+    top:-4rem;
     left:0;
-    background-color:#323232;
+    background-color:#a85050;
     width: calc(100% - 0.4rem);
     border-radius: 0.5rem;
     padding: 0.2rem;
