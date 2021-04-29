@@ -44,7 +44,7 @@ h1{
 
 .alert{
     position: absolute;
-    top:3rem;
+    top:8rem;
     left:0;
     background-color:#323232;
     width: calc(100% - 0.4rem);
@@ -151,7 +151,7 @@ h1{
   
 .ingredient-text {
     font-size: 1.5rem;
-    color: rgb(239, 221, 250);
+    color: rgb(72, 42, 90);
   }
   
 .ingredient-weight {

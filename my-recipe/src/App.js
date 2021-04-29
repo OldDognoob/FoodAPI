@@ -46,6 +46,7 @@ const App = () => {
     <div className="App">
       <h1>Searching Food Recipe</h1>
       <form onSubmit={onSubmit} className="search-form">
+          {alert !== "" && <Alert alert={alert}/>}
         <input
           type="text"
           placeholder="Search Food"
