@@ -11,10 +11,9 @@ const App = () => {
   const[recipes, setRecipes] = useState([]);
 
   const APP_ID = "1c999786";
-
   const APP_KEY = "6f0457310adcf00c7cfbe5ad8746b21e";
 
-  const url = `https://api.edamam.com/search?q=${query}app_id=${APP_ID}&app_key=${APP_KEY}`;
+  const url = `https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`;
 
   const getData = async () => {
     const result = await Axios.get(url);
