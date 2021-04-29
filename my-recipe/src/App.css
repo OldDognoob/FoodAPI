@@ -10,7 +10,7 @@
 }
 
 html{
-    font-size: 63%;
+    font-size: 62.5%;
 }
 
 .App{
@@ -20,13 +20,13 @@ html{
 }
 
 h1{
-    font-size: 9rem;
+    font-size: 7rem;
     letter-spacing: 0.1rem;
     font-style: italic;
     color:#ffb6c1;
     text-shadow: 0 0.2rem 5rem rgb(255,	182,193);
     text-transform: uppercase;
-    margin: 4rem 0;
+    margin: 3rem 0;
 }
 
 .search-form {
